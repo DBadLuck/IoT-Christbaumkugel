@@ -6,9 +6,9 @@ eine Christbaumkugel, die mittels Bluetooth per Handy ferngesteuert werden kann,
 Alle Materialen für die Umsetzung, mit den nötigen Informationen sind im Repository vorhanden.
 Wer mit dem Cheatsheet nicht weiterkommt - Es befindet sich auch ein fertiger Sketch im Repo ;) 
 
-## Smarte Christbaumbeleuchtung ohne lästige Verkabelung!
-![Ergebnis](https://github.com/christs15/IoT-Christbaumkugel/tree/master/Images/issue.png)
+### Smarte Christbaumbeleuchtung ohne lästige Verkabelung!
+![Issue](https://github.com/christs15/IoT-Christbaumkugel/blob/master/Images/issue.png)
 
-## Ergebnis
-![Ergebnis](https://github.com/christs15/IoT-Christbaumkugel/tree/master/Images/Christbaumkugel.jpg)
+### Ergebnis
+![Ergebnis](https://github.com/christs15/IoT-Christbaumkugel/blob/master/Images/Christbaumkugel.jpg)
 
