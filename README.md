@@ -7,8 +7,8 @@ Alle Materialen für die Umsetzung, mit den nötigen Informationen sind im Repos
 Wer mit dem Cheatsheet nicht weiterkommt - Es befindet sich auch ein fertiger Sketch im Repo ;) 
 
 ## Smarte Christbaumbeleuchtung ohne lästige Verkabelung!
-![Ergebnis](https://github.com/christs15/IoT-Christbaumkugel/tree/master/images/issue.png)
+![Ergebnis](https://github.com/christs15/IoT-Christbaumkugel/tree/master/Images/issue.png)
 
 ## Ergebnis
-![Ergebnis](https://github.com/christs15/IoT-Christbaumkugel/tree/master/images/Christbaumkugel.jpg)
+![Ergebnis](https://github.com/christs15/IoT-Christbaumkugel/tree/master/Images/Christbaumkugel.jpg)
 
